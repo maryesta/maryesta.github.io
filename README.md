@@ -66,17 +66,17 @@ Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
 ### [Predictive Modeling of Hazardous Waste Generation](https://drive.google.com/drive/folders/1rXoVoqOZWmxU9DeErU5J3uh4xv69YN0-?usp=sharing)
 Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
 - A machine learning model was developed to predict the total hazardous waste generated in the ten most populous states in the United States as part of the Final National Data Science Competition by Universitas Al Azhar. The project utilized data from the Environmental Protection Agency (EPA) and followed the CRISP-DM methodology, including data cleaning, preprocessing, and feature engineering. Techniques such as K-Means clustering for geographical segmentation, feature importance analysis, and SHAP values were employed to interpret model results. Ridge Regression was selected as the best-performing model after hyperparameter tuning, achieving optimal results with metrics such as MAE, RMSE, and R-squared.
-- **Tools**: Python (Pandas, Scikit-learn, SHAP), Data Visualization libraries, Statistical Analysis
+- **Tools**: Phyton (Preprocessing, EDA, Feature Engineering, Modeling (Regression), Simulation)
 
 ### [Harmonization of Learning Styles and Social Connectivity](https://drive.google.com/drive/folders/1GadtiFPzh9Ji-X6ThkdPp5xhL47F5Ecb?usp=sharing)
 3rd Place LKTI Competition Marcsion 2023 by Universitas Padjajaran
 - This research focuses on the importance of learning styles in the teaching process, particularly in the context of Society 5.0. The study aims to develop an adaptive digital learning platform that utilizes student performance data and algorithms for dynamic learning. It also addresses the challenges of minimal social interaction in online learning. By using K-means clustering, the study categorizes students based on their VARK learning styles, gathered through questionnaires. The research involves 67 first-year mathematics students at the University of Indonesia and aims to guide the development of effective adaptive learning platforms. This paper was submitted to the national competition LKTI Marcsion 2023 by Himatika FMIPA Universitas Padjajaran, where it won third place.
-- **Tools**: Python (Pandas, Scikit-learn, Matplotlib), Excel, Statistical Analysis packages
+- **Tools**: Phyton (Preprocessing, EDA, Clustering Analysis), Excel/Spreadsheet (Preprocessing)
 
 ### [Job Search and Recruitment Database System](https://drive.google.com/drive/folders/1PnWKeZN--SZi3VUQelqGkZERZ8tnE2fc?usp=drive_link)
 Academic Project
 - The aim of this project is to facilitate job seekers with efficient job search features and customizable filters. It also helps companies to effectively promote their job vacancies to potential candidates, manage job descriptions, salaries, and offers, and streamline the interview process with structured information. The implementation of SQL and GUI in this project has been successful, with a well-structured database consisting of various relational tables. The project includes features like login, registration, job search, application, and result viewing.
-- **Tools**: SQL (database design and queries), Python (Tkinter for GUI), Excel (data preparation and testing)
+- **Tools**: SQL, Phyton, Excel/Spreadsheet
 
 ## Skills
 
