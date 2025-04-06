@@ -53,6 +53,7 @@ Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of
 - Created an interactive Looker Studio dashboard and comprehensive slide report to present actionable recommendations, enhancing customer satisfaction strategies and business decision-making.
 - Completed an intensive 3-weeks Business Intelligence bootcamp, mastering data preprocessing, exploratory data analysis (EDA), and data visualization using Tableau and Power BI.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
+This project involved a comprehensive analysis of customer reviews for the Ruangguru app, aimed at identifying key areas for improvement and enhancing user satisfaction. Utilizing tools such as Tableau, the project encompassed creating a detailed report with slides and an interactive dashboard. The analysis focused on user feedback related to interface design, app features, learning content, and technical issues. The findings highlighted strengths in learning content and features but revealed significant challenges in user interface and technical performance. Recommended actions included enhancing server capacity during peak usage and improving the app's user interface. It was showcased during Sister in Tech, organized by Ristek, Faculty of Computer Science, University of Indonesia, where it was honored with the Best Final Project award.
 
 ### [Medicine Recommendation System Using Content-Based Filtering](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
@@ -129,7 +130,7 @@ Academic Project
 
 ## Certifications
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
-- **[Data Science Academy](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)** - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
+- **[Data Science Academy ](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)** - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
 - **[Business Intelligence SISTECH Portfolio Program](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)** - RISTEK Faculty of Computer Science Universitas Indonesia, 2024
 - **[Intro to Data Analytics Course](https://drive.google.com/file/d/1SPIXG-oDl3yWT_uk5JPHgcLd9kpkP8TN/view?usp=sharing)** - RevoU, 2023
 - **[Data Science Mini Bootcamp](https://drive.google.com/drive/folders/1AUe2hhfpxa9ljmKcorPSQnBBb-dpXdT1?usp=sharing)** - DQLab, 2023
