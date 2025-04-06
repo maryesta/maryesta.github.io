@@ -12,10 +12,8 @@ Sixth-semester Statistics student at Universitas Indonesia with practical experi
 ## Education
 
 **Universitas Indonesia, Depok**  
-*Major in Statistics | Minor in Applied Statistics: Data Science*  
+*Major in Statistics | Minor in Applied Statistics: Data Science | Current GPA: 3.88/4.00 | 6th Semester*  
 July 2022 - Present
-- Current GPA: 3.88/4.00 | 6th Semester
-- Relevant Courses: Data Mining & Business Intelligence, Exploratory Data Analysis & Visualization, Database for Data Science, Softskill for Data Science, Forecasting Method, Multivariate Analysis
 
 ## Achievements
 
@@ -33,83 +31,51 @@ July 2022 - Present
 ### Assistant Lecturer - Universitas Indonesia, Depok
 *Linear Algebra Assistant Lecturer*  
 Jan 2024 - Present
-- Facilitated 2 interactive tutorials for 43 students, utilizing interactive teaching techniques and digital tools to enhance engagement and foster an active learning environment
-- Designed and developed 10+ tutorial materials, simplifying complex concepts to improve student comprehension and participation
-- Created a detailed grading rubric and systematically evaluated over 258 assignments using Excel, ensuring consistency, transparency, and providing data-informed, actionable feedback to support student improvement
-- Improved assessment efficiency by streamlining the grading process, reducing evaluation time while maintaining high accuracy and fairness in scoring
 
 ### IPDS Team Intern - Badan Pusat Statistik Kota Depok, Depok
 *IPDS Team Intern*  
 Dec 2024 - Feb 2025
-- Managed spatial datasets for Depok City's Economic Census by systematically organizing 5,200+ RT (neighborhood) and village-level maps using Excel and Google Sheets, ensuring 100% map readiness for accurate census planning
-- Enhanced data accuracy by detecting and correcting errors in 20% of the spatial datasets through structured data validation techniques, contributing to on-time census execution
-- Collected and validated primary agricultural data during field surveys, including crop assessments for rice and tubers, leveraging data verification tools to support the accuracy of agricultural statistics and national reporting
 
 ## Projects
 
 ### [Customer Review Analysis of Ruangguru](https://drive.google.com/drive/u/1/folders/1CgYXxfYE1GpT28WdY_b9B5Y7IXqXd1aJ)
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
-- Developed "Customer Review Analysis: Ruangguru Google Play Reviews" project, utilizing Python and Excel for data preprocessing, sentiment analysis, and feature extraction to derive key customer insights [Project]
-- Created an interactive Looker Studio dashboard and comprehensive slide report to present actionable recommendations, enhancing customer satisfaction strategies and business decision-making.
-- Completed an intensive 3-weeks Business Intelligence bootcamp, mastering data preprocessing, exploratory data analysis (EDA), and data visualization using Tableau and Power BI.
+- Developed "Customer Review Analysis: Ruangguru Google Play Reviews" project, utilizing Python and Excel for data preprocessing, sentiment analysis, and feature extraction to derive key customer insights. Created an interactive Looker Studio dashboard and comprehensive slide report to present actionable recommendations, enhancing customer satisfaction strategies and business decision-making. Completed an intensive 3-weeks Business Intelligence bootcamp, mastering data preprocessing, exploratory data analysis (EDA), and data visualization using Tableau and Power BI.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
-This project involved a comprehensive analysis of customer reviews for the Ruangguru app, aimed at identifying key areas for improvement and enhancing user satisfaction. Utilizing tools such as Tableau, the project encompassed creating a detailed report with slides and an interactive dashboard. The analysis focused on user feedback related to interface design, app features, learning content, and technical issues. The findings highlighted strengths in learning content and features but revealed significant challenges in user interface and technical performance. Recommended actions included enhancing server capacity during peak usage and improving the app's user interface. It was showcased during Sister in Tech, organized by Ristek, Faculty of Computer Science, University of Indonesia, where it was honored with the Best Final Project award.
 
 ### [Medicine Recommendation System Using Content-Based Filtering](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
--	Developed "Medicine Recommendation" as a final project, utilizing content-based filtering algorithms such as cosine similarity and weighted similarity with Phyton to build a personalized medicine recommendation engine. [Project]
--	Created an interactive Tableau dashboard to visualize recommendation results, improving interpretability and user understanding for the panel of judges.
--	Completed a 2-month intensive bootcamp focused on Data Science, Machine Learning, and Data Analytics, gaining hands-on experience with end-to-end data workflows.
+-	Developed "Medicine Recommendation" as a final project, utilizing content-based filtering algorithms such as cosine similarity and weighted similarity with Phyton to build a personalized medicine recommendation engine. Created an interactive Tableau dashboard to visualize recommendation results, improving interpretability and user understanding for the panel of judges. Completed a 2-month intensive bootcamp focused on Data Science, Machine Learning, and Data Analytics, gaining hands-on experience with end-to-end data workflows.
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Content-based recommendation system), Tableau (Visualization)
 
 ### [Rainfall Prediction Using Machine Learning](https://drive.google.com/drive/folders/1eovwymbQ_ZiDiSLEtxKkhVjdsYTddhZK?usp=sharing)
 3rd Place in Data Competition Pekan RISTEK 2024 by Faculty of Computer Science Universitas Indonesia
-- Built a machine learning model to predict rainfall using weather data
-- Performed data preprocessing including handling skewed distributions through Box-Cox and log transformations
-- Implemented feature engineering with label encoding and normalization
-- Selected CatBoostRegressor as the final model after rigorous evaluation and optimized using Optuna
+- A machine learning model was developed to predict rainfall using weather data as part of the Pekan Ristek Data Competition 2024 organized by the Faculty of Computer Science at Universitas Indonesia, securing 3rd place. The project involved cleaning and preprocessing datasets, performing exploratory data analysis (EDA), and addressing skewed data distributions through Box-Cox and log transformations. Feature engineering included handling categorical variables with label encoding and normalizing numerical features. Multiple regression models were evaluated using KFold cross-validation and Mean Squared Error (MSE). CatBoostRegressor was selected as the final model due to its performance, and SHAP analysis was used to interpret feature importance. Hyperparameter tuning with Optuna further optimized the model, achieving competitive results on Kaggle.
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Regression Modeling)
 
 ### [Clustering Analysis of Poverty Factors in Indonesia](https://drive.google.com/drive/folders/1aUZunYQKXL76TzZuAO2bktAqOF9zLFnj?usp=sharing)
 2nd Winner of Statistics Olympiad SPSS 2024 by Binus University
-- Analyzed poverty levels across districts/cities in Indonesia using K-Means and K-Medoids clustering
-- Applied PCA for dimensionality reduction and multicollinearity handling
-- Identified three distinct poverty clusters to guide targeted policy recommendations
+- This project, conducted as part of the Statistics Olympiad SPSS 2024 organized by Binus University, aimed to characterize poverty levels across districts/cities in Indonesia using K-Means and K-Medoids clustering. This project earned 2nd place in the competition. The analysis focused on key factors such as education, unemployment, access to sanitation, and regional GDP. Data preprocessing included handling multicollinearity, standardization, and dimensionality reduction using Principal Component Analysis (PCA). The optimal clustering model (K-Means with 3 clusters and PCA) was selected based on Elbow Method, Silhouette Score, and Davies-Bouldin Index. The results identified three distinct poverty clusters, providing actionable recommendations for targeted poverty alleviation policies. 
 - **Tools**: R (Data Preprocessing, EDA, Clustering Analysis)
 
 ### [Sentiment Analysis of Indonesian Public Opinion on Electric Cars](https://drive.google.com/drive/folders/1BhXs6JWh_67Ml4gPQazwtvhDHObyS0t4?usp=sharing)
 Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
-- Classified public sentiment toward electric cars using NLP techniques
-- Applied text preprocessing including cleaning, lemmatization, stopword removal, and TF-IDF vectorization
-- Addressed class imbalance with SMOTE and optimized models with GridSearchCV
-- Achieved 73.03% test accuracy and 0.8126 ROC-AUC score with SVM model
+- This project, part of the Final Data Competition ISFEST 2024 by UMN, aimed to classify public sentiment toward electric cars in Indonesia using machine learning. The dataset, consisting of social media comments, was preprocessed through text cleaning, lemmatization, stopword removal, and TF-IDF vectorization. Ten classification models were evaluated. To address class imbalance, SMOTE (Synthetic Minority Over-sampling Technique) was applied, and hyperparameter tuning was performed using GridSearchCV. The SVM (Support Vector Machine) model achieved the best performance, with a test accuracy of 73.03% and a ROC-AUC score of 0.8126. 
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, NLP, Sentiment Analysis)
 
 ### [Predictive Modeling of Hazardous Waste Generation](https://drive.google.com/drive/folders/1rXoVoqOZWmxU9DeErU5J3uh4xv69YN0-?usp=sharing)
 Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
-- Developed a machine learning model to predict hazardous waste generation in the ten most populous U.S. states
-- Implemented CRISP-DM methodology with rigorous data cleaning, preprocessing, and feature engineering using EPA data
-- Applied K-Means clustering for geographical segmentation and used SHAP values for model interpretability
-- Selected Ridge Regression as the optimal model after extensive hyperparameter tuning
-- Achieved superior performance metrics (MAE, RMSE, R-squared) compared to baseline models
+- A machine learning model was developed to predict the total hazardous waste generated in the ten most populous states in the United States as part of the Final National Data Science Competition by Universitas Al Azhar. The project utilized data from the Environmental Protection Agency (EPA) and followed the CRISP-DM methodology, including data cleaning, preprocessing, and feature engineering. Techniques such as K-Means clustering for geographical segmentation, feature importance analysis, and SHAP values were employed to interpret model results. Ridge Regression was selected as the best-performing model after hyperparameter tuning, achieving optimal results with metrics such as MAE, RMSE, and R-squared.
 - **Tools**: Python (Pandas, Scikit-learn, SHAP), Data Visualization libraries, Statistical Analysis
 
 ### [Harmonization of Learning Styles and Social Connectivity](https://drive.google.com/drive/folders/1GadtiFPzh9Ji-X6ThkdPp5xhL47F5Ecb?usp=sharing)
 3rd Place LKTI Competition Marcsion 2023 by Universitas Padjajaran
-- Conducted research focusing on the importance of learning styles in the teaching process within Society 5.0 context
-- Designed and distributed questionnaires to collect VARK learning style data from 67 first-year mathematics students
-- Applied K-Means clustering to categorize students based on their learning preferences and social connectivity patterns
-- Proposed framework for developing adaptive digital learning platforms that leverage student performance data
-- Created recommendations to address challenges of minimal social interaction in online learning environments
+- This research focuses on the importance of learning styles in the teaching process, particularly in the context of Society 5.0. The study aims to develop an adaptive digital learning platform that utilizes student performance data and algorithms for dynamic learning. It also addresses the challenges of minimal social interaction in online learning. By using K-means clustering, the study categorizes students based on their VARK learning styles, gathered through questionnaires. The research involves 67 first-year mathematics students at the University of Indonesia and aims to guide the development of effective adaptive learning platforms. This paper was submitted to the national competition LKTI Marcsion 2023 by Himatika FMIPA Universitas Padjajaran, where it won third place.
 - **Tools**: Python (Pandas, Scikit-learn, Matplotlib), Excel, Statistical Analysis packages
 
 ### [Job Search and Recruitment Database System](https://drive.google.com/drive/folders/1PnWKeZN--SZi3VUQelqGkZERZ8tnE2fc?usp=drive_link)
 Academic Project
-- Designed and implemented a relational database system to connect job seekers with potential employers
-- Created a well-structured SQL database with multiple interconnected tables for users, job listings, applications, and interviews
-- Developed a Python GUI application with features for user registration, login, job search with customizable filters, application submission, and result tracking
-- Implemented database normalization techniques to ensure data integrity and optimize query performance
-- Built reporting functionality to help companies effectively track and manage their recruitment pipeline
+- The aim of this project is to facilitate job seekers with efficient job search features and customizable filters. It also helps companies to effectively promote their job vacancies to potential candidates, manage job descriptions, salaries, and offers, and streamline the interview process with structured information. The implementation of SQL and GUI in this project has been successful, with a well-structured database consisting of various relational tables. The project includes features like login, registration, job search, application, and result viewing.
 - **Tools**: SQL (database design and queries), Python (Tkinter for GUI), Excel (data preparation and testing)
 
 ## Skills
