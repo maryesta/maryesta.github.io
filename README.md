@@ -38,7 +38,7 @@ Dec 2024 - Feb 2025
 
 ## Projects
 
-### [Customer Review Analysis of Ruangguru]([https://drive.google.com/drive/u/1/folders/1CgYXxfYE1GpT28WdY_b9B5Y7IXqXd1aJ](https://github.com/maryesta/Customer-Review-Analysis-of-Ruangguru/tree/main))
+### [Customer Review Analysis of Ruangguru](https://github.com/maryesta/Customer-Review-Analysis-of-Ruangguru)
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
 - Developed "Customer Review Analysis: Ruangguru Google Play Reviews" project, utilizing Python and Excel for data preprocessing, sentiment analysis, and feature extraction to derive key customer insights. Created an interactive Looker Studio dashboard and comprehensive slide report to present actionable recommendations, enhancing customer satisfaction strategies and business decision-making. Completed an intensive 3-weeks Business Intelligence bootcamp, mastering data preprocessing, exploratory data analysis (EDA), and data visualization using Tableau and Power BI.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
