@@ -1,86 +1,9 @@
 # Maryesta Apriliani Sihombing
 
-### Data Science & Analytics Enthusiast | Statistics Student at Universitas Indonesia
-
-[![Email](https://img.shields.io/badge/Email-maryesta.apriliani@ui.ac.id-blue?style=flat&logo=gmail)](mailto:maryesta.apriliani@ui.ac.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryesta_Apriliani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maryesta-apriliani-sihombing/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-green?style=flat)](https://drive.google.com/drive/folders/17z47YYe9Xb9ug95Rr61d5-4zMIh-IhGO?usp=sharing)
-
-## 📌 Summary
-
-Sixth-semester Statistics student at **Universitas Indonesia (GPA: 3.88/4.00)** with hands-on experience in data analysis through:
-- Internship at **BPS Depok** (Indonesia's Central Statistics Agency)
-- **3+ data science competition wins** (BINUS, RISTEK UI, UMN)
-- Advanced coursework in **Machine Learning, Data Mining, and Statistical Modeling**
-
-**Core Skills:**  
-`Python` `SQL` `Tableau` `R` `Excel` `Looker Studio` `Predictive Modeling` `Data Visualization`
-
-## 🏆 Highlight Projects
-
-### 1. [Ruangguru Customer Review Analysis](https://drive.google.com/drive/folders/1CgYXxfYE1GpT28WdY_b9B5Y7IXqXd1aJ)
-**Tools:** Python (Sentiment Analysis), Looker Studio, Excel  
-- Analyzed 10K+ Google Play reviews to identify UX pain points  
-- Built interactive dashboard with actionable insights (**Best Final Project Award @ RISTEK UI**)  
-
-### 2. [Medicine Recommendation System](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)
-**Tools:** Python (Content-Based Filtering), Tableau  
-- Engineered recommendation algorithm using **cosine similarity** (84% precision)  
-- Developed Tableau dashboard for prescription alternatives  
-
-### 3. [Poverty Clustering Analysis](https://drive.google.com/drive/folders/1aUZunYQKXL76TzZuAO2bktAqOF9zLFnj?usp=sharing)
-**Tools:** R (K-Means/PCA), Excel  
-- Identified 3 poverty clusters across Indonesian districts (**2nd Winner @ BINUS Statistics Olympiad**)  
-- Key factors: Education, Unemployment, Sanitation Access  
-
-### 4. [Electric Vehicle Sentiment Analysis](https://drive.google.com/drive/folders/1BhXs6JWh_67Ml4gPQazwtvhDHObyS0t4?usp=sharing)
-**Tools:** Python (NLP/SVM), SMOTE  
-- Classified Indonesian social media sentiment (73% accuracy)  
-- Addressed class imbalance with **SMOTE** oversampling  
-
-## 📚 Education
-**Universitas Indonesia**  
-*B.Sc in Statistics | Minor: Data Science* (2022-Present)  
-- **GPA:** 3.88/4.00  
-- **Relevant Courses:** Data Mining, EDA & Visualization, Forecasting Methods  
-- **Scholarship:** Beasiswa Unggulan 2023 (Top 2,000/19,000+ nationwide)  
-
-## 💼 Professional Experience
-**BPS Depok (Central Statistics Agency)** | *IPDS Team Intern*  
-- Managed 5,200+ spatial datasets for Economic Census using **Excel/Google Sheets**  
-- Improved data accuracy by **20%** through validation techniques  
-
-**Universitas Indonesia** | *Linear Algebra Teaching Assistant*  
-- Developed 10+ tutorial materials for 43 students  
-- Automated grading for 258+ assignments using **Excel**  
-
-## 📊 Technical Skills
-**Programming:**  
-`Python` (Pandas, Scikit-learn) | `R` (dplyr, ggplot2) | `SQL`  
-
-**Visualization:**  
-`Tableau` | `Looker Studio` | `Matplotlib/Seaborn`  
-
-**Analytics:**  
-`Statistical Modeling` | `Machine Learning` | `Predictive Analytics`  
-
-## 🏅 Certifications
-- Google Data Analytics Professional (2024)  
-- COMPFEST Data Science Academy (2024)  
-- RISTEK Business Intelligence Program (2024)  
-
----
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/maryesta-apriliani-sihombing/) | [Portfolio](https://drive.google.com/drive/folders/17z47YYe9Xb9ug95Rr61d5-4zMIh-IhGO?usp=sharing)
-
-
-
-# Maryesta Apriliani Sihombing
-
 ## Data Analytics and Data Science Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryesta-apriliani-sihombing/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:maryesta.apriliani@ui.ac.id)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-green)](https://drive.google.com/drive/folders/17z47YYe9Xb9ug95Rr61d5-4zMIh-IhGO?usp=sharing)
 
 ## About Me
 
@@ -96,14 +19,14 @@ July 2022 - Present
 
 ## Achievements
 
-- **Finalist in National Data Science Competition Fortex 5.0 2025** by Universitas Al-Azhar - Developed a predictive model using Ridge Regression for US hazardous waste prediction
-- **3rd Place in Data Science Competition Pekan RISTEK 2024** by RISTEK Fasilkom UI - Developed a machine learning model using Catboost, with focus on EDA and feature engineering
-- **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University - Applied K-Means and K-Medoids clustering on poverty indicators
-- **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta - NLP analysis of EV sentiment using SVM and SMOTE
-- **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI - Designed "Abililink" platform for disability employment
-- **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI - Developed "AjarIND" online learning platform
-- **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran - Research on learning styles using VARK & K-Means clustering
-- **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture - 100% merit-based scholarship for 3 years, selected among top 2,000/19,000+ applicants nationwide
+- **Finalist in National Data Science Competition Fortex 5.0 2025** by Universitas Al-Azhar
+- **3rd Place in Data Science Competition Pekan RISTEK 2024** by RISTEK Fasilkom UI
+- **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University 
+- **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
+- **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
+- **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
+- **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran
+- **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture
 
 ## Experience
 
@@ -126,17 +49,16 @@ Dec 2024 - Feb 2025
 
 ### [Customer Review Analysis of Ruangguru](https://drive.google.com/drive/u/1/folders/1CgYXxfYE1GpT28WdY_b9B5Y7IXqXd1aJ)
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
-- Conducted comprehensive analysis of customer reviews for the Ruangguru app to identify key areas for improvement
-- Created interactive dashboards using Looker Studio to visualize user feedback patterns
-- Won Best Final Project award at Sister in Tech event
+- Developed "Customer Review Analysis: Ruangguru Google Play Reviews" project, utilizing Python and Excel for data preprocessing, sentiment analysis, and feature extraction to derive key customer insights [Project]
+- Created an interactive Looker Studio dashboard and comprehensive slide report to present actionable recommendations, enhancing customer satisfaction strategies and business decision-making.
+- Completed an intensive 3-weeks Business Intelligence bootcamp, mastering data preprocessing, exploratory data analysis (EDA), and data visualization using Tableau and Power BI.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
 
 ### [Medicine Recommendation System Using Content-Based Filtering](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
-- Developed a recommendation system utilizing cosine similarity and weighted similarity algorithms
-- Preprocessed data including handling missing values, removing duplicates, and feature engineering with Word2Vec
-- Created an interactive Tableau dashboard for user-friendly exploration of medicine recommendations
-- Achieved 84% average precision in testing scenarios
+-	Developed "Medicine Recommendation" as a final project, utilizing content-based filtering algorithms such as cosine similarity and weighted similarity with Phyton to build a personalized medicine recommendation engine. [Project]
+-	Created an interactive Tableau dashboard to visualize recommendation results, improving interpretability and user understanding for the panel of judges.
+-	Completed a 2-month intensive bootcamp focused on Data Science, Machine Learning, and Data Analytics, gaining hands-on experience with end-to-end data workflows.
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Content-based recommendation system), Tableau (Visualization)
 
 ### [Rainfall Prediction Using Machine Learning](https://drive.google.com/drive/folders/1eovwymbQ_ZiDiSLEtxKkhVjdsYTddhZK?usp=sharing)
@@ -154,7 +76,7 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 - Identified three distinct poverty clusters to guide targeted policy recommendations
 - **Tools**: R (Data Preprocessing, EDA, Clustering Analysis)
 
-### [Sentiment Classification of Indonesian Public Opinion on Electric Cars](https://drive.google.com/drive/folders/1BhXs6JWh_67Ml4gPQazwtvhDHObyS0t4?usp=sharing)
+### [Sentiment Analysis of Indonesian Public Opinion on Electric Cars](https://drive.google.com/drive/folders/1BhXs6JWh_67Ml4gPQazwtvhDHObyS0t4?usp=sharing)
 Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
 - Classified public sentiment toward electric cars using NLP techniques
 - Applied text preprocessing including cleaning, lemmatization, stopword removal, and TF-IDF vectorization
@@ -162,10 +84,32 @@ Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
 - Achieved 73.03% test accuracy and 0.8126 ROC-AUC score with SVM model
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, NLP, Sentiment Analysis)
 
-### [Additional Projects](https://github.com/MaryestaApriliani)
-- **Predictive Modeling of Hazardous Waste Generation** - Finalist in National Data Science Competition Fortex 5.0
-- **Harmonization of Learning Styles and Social Connectivity** - 3rd Place LKTI Competition Marcsion 2023
-- **Job Search and Recruitment Database System** - SQL and Python implementation
+### [Predictive Modeling of Hazardous Waste Generation](https://drive.google.com/drive/folders/1rXoVoqOZWmxU9DeErU5J3uh4xv69YN0-?usp=sharing)
+Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
+- Developed a machine learning model to predict hazardous waste generation in the ten most populous U.S. states
+- Implemented CRISP-DM methodology with rigorous data cleaning, preprocessing, and feature engineering using EPA data
+- Applied K-Means clustering for geographical segmentation and used SHAP values for model interpretability
+- Selected Ridge Regression as the optimal model after extensive hyperparameter tuning
+- Achieved superior performance metrics (MAE, RMSE, R-squared) compared to baseline models
+- **Tools**: Python (Pandas, Scikit-learn, SHAP), Data Visualization libraries, Statistical Analysis
+
+### [Harmonization of Learning Styles and Social Connectivity](https://drive.google.com/drive/folders/1GadtiFPzh9Ji-X6ThkdPp5xhL47F5Ecb?usp=sharing)
+3rd Place LKTI Competition Marcsion 2023 by Universitas Padjajaran
+- Conducted research focusing on the importance of learning styles in the teaching process within Society 5.0 context
+- Designed and distributed questionnaires to collect VARK learning style data from 67 first-year mathematics students
+- Applied K-Means clustering to categorize students based on their learning preferences and social connectivity patterns
+- Proposed framework for developing adaptive digital learning platforms that leverage student performance data
+- Created recommendations to address challenges of minimal social interaction in online learning environments
+- **Tools**: Python (Pandas, Scikit-learn, Matplotlib), Excel, Statistical Analysis packages
+
+### [Job Search and Recruitment Database System](https://drive.google.com/drive/folders/1PnWKeZN--SZi3VUQelqGkZERZ8tnE2fc?usp=drive_link)
+Academic Project
+- Designed and implemented a relational database system to connect job seekers with potential employers
+- Created a well-structured SQL database with multiple interconnected tables for users, job listings, applications, and interviews
+- Developed a Python GUI application with features for user registration, login, job search with customizable filters, application submission, and result tracking
+- Implemented database normalization techniques to ensure data integrity and optimize query performance
+- Built reporting functionality to help companies effectively track and manage their recruitment pipeline
+- **Tools**: SQL (database design and queries), Python (Tkinter for GUI), Excel (data preparation and testing)
 
 ## Skills
 
@@ -181,7 +125,7 @@ Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
 - Detail-Oriented Organizational Skills
 - Interpersonal Communication
 - Cross-Functional Collaboration
-- Leadership and Team Management
+- Team Management
 
 ## Certifications
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
