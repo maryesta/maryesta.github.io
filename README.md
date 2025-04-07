@@ -42,6 +42,7 @@ Dec 2024 - Feb 2025
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
 - This project involved a comprehensive analysis of customer reviews for the Ruangguru app, aimed at identifying key areas for improvement and enhancing user satisfaction. Utilizing tools such as Tableau, the project encompassed creating a detailed report with slides and an interactive dashboard. The analysis focused on user feedback related to interface design, app features, learning content, and technical issues. The findings highlighted strengths in learning content and features but revealed significant challenges in user interface and technical performance. Recommended actions included enhancing server capacity during peak usage and improving the app's user interface. It was showcased during Sister in Tech, organized by Ristek, Faculty of Computer Science, University of Indonesia, where it was honored with the Best Final Project award.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
+![Customer Review Analysis of Ruangguru](/assets/img/sistech.jpeg)
 
 ### [Medicine Recommendation System Using Content-Based Filtering](https://github.com/maryesta/Medicine-Recommendation-System)
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
