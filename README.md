@@ -113,15 +113,6 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 
 ## Certifications
 
-<div align="center">
-  
-[![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)
-[![UI](https://img.shields.io/badge/Data_Science_Academy-FF5722?style=for-the-badge&logo=academia&logoColor=white)](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)
-[![BI](https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)
-  
-</div>
-
-
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
 - **[Data Science Academy ](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)** - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
 - **[Business Intelligence SISTECH Portfolio Program](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)** - RISTEK Faculty of Computer Science Universitas Indonesia, 2024
@@ -130,8 +121,8 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 - **[Boot Camp Digital Skill Fair 17: Data Science](https://drive.google.com/file/d/1QGKEETp_V2acNU6jOaTIJyUToGPV1SOj/view?usp=sharing)** - dibimbing.id, 2023
 
 ## Languages
-- English (Working Proficiency)
-- Indonesian (Native)
+- GB English (Working Proficiency)
+- ID Indonesian (Native)
 
 ---
 
