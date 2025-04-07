@@ -26,6 +26,7 @@ My strength lies in translating complex datasets into clear and actionable busin
 **Universitas Indonesia, Depok**  
 *Majoring in Statistics | Concentration: Data Science | Current GPA: 3.88/4.00 | 6th Semester*  
 July 2022 - Present
+- Related Courses: Data Mining & Bussiness Intelligence, Exploratory Data Analysis & Visualization, Database for Data Science, Softskill for Data Science, Forecasting Method, Multivariate Analysis, etc.
 
 ## Achievements and Honor
 
