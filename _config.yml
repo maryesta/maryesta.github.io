@@ -2,8 +2,8 @@
 title: "Maryesta Apriliani Sihombing"
 subtitle: "Data Science & Analytics Specialist"
 logo: /assets/img/cropped_image.png
-logo_width: 150px  # Custom width for your profile image
-logo_height: 150px # Custom height (maintain aspect ratio)
+logo_width: 100px  # Custom width for your profile image
+logo_height: 100px # Custom height (maintain aspect ratio)
 #logo_style: "round" # Options: round, square, circle
 
 # Display Settings
