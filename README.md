@@ -72,6 +72,7 @@ Dec 2024 - Feb 2025
 
 ### Customer Review Analysis of Ruangguru
 [View Project](https://github.com/maryesta/Customer-Review-Analysis-of-Ruangguru)
+
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
 - This project involved a comprehensive analysis of customer reviews for the Ruangguru app, aimed at identifying key areas for improvement and enhancing user satisfaction. Utilizing tools such as Tableau, the project encompassed creating a detailed report with slides and an interactive dashboard. The analysis focused on user feedback related to interface design, app features, learning content, and technical issues. The findings highlighted strengths in learning content and features but revealed significant challenges in user interface and technical performance. Recommended actions included enhancing server capacity during peak usage and improving the app's user interface. It was showcased during Sister in Tech, organized by Ristek, Faculty of Computer Science, University of Indonesia, where it was honored with the Best Final Project award.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
@@ -80,6 +81,7 @@ Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of
 
 ### Medicine Recommendation System Using Content-Based Filtering 
 [View Project](https://github.com/maryesta/Medicine-Recommendation-System)
+
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
 -	Developed "Medicine Recommendation" as a final project, utilizing content-based filtering algorithms such as cosine similarity and weighted similarity with Phyton to build a personalized medicine recommendation engine. Created an interactive Tableau dashboard to visualize recommendation results, improving interpretability and user understanding for the panel of judges. Completed a 2-month intensive bootcamp focused on Data Science, Machine Learning, and Data Analytics, gaining hands-on experience with end-to-end data workflows.
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Content-based recommendation system), Tableau (Visualization)
@@ -87,6 +89,7 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 
 ### Rainfall Prediction Using Machine Learning 
 [View Project](https://github.com/maryesta/Rainfall-Prediction-Using-Machine-Learning)
+
 3rd Place in Data Competition Pekan RISTEK 2024 by Faculty of Computer Science Universitas Indonesia
 - A machine learning model was developed to predict rainfall using weather data as part of the Pekan Ristek Data Competition 2024 organized by the Faculty of Computer Science at Universitas Indonesia, securing 3rd place. The project involved cleaning and preprocessing datasets, performing exploratory data analysis (EDA), and addressing skewed data distributions through Box-Cox and log transformations. Feature engineering included handling categorical variables with label encoding and normalizing numerical features. Multiple regression models were evaluated using KFold cross-validation and Mean Squared Error (MSE). CatBoostRegressor was selected as the final model due to its performance, and SHAP analysis was used to interpret feature importance. Hyperparameter tuning with Optuna further optimized the model, achieving competitive results on Kaggle.
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Regression Modeling)
@@ -94,6 +97,7 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 
 ### Clustering Analysis of Poverty Factors in Indonesia 
 [View Project](https://github.com/maryesta/Clustering-Analysis-of-Poverty-Factors-in-Indonesian)
+
 2nd Winner of Statistics Olympiad SPSS 2024 by Binus University
 - This project, conducted as part of the Statistics Olympiad SPSS 2024 organized by Binus University, aimed to characterize poverty levels across districts/cities in Indonesia using K-Means and K-Medoids clustering. This project earned 2nd place in the competition. The analysis focused on key factors such as education, unemployment, access to sanitation, and regional GDP. Data preprocessing included handling multicollinearity, standardization, and dimensionality reduction using Principal Component Analysis (PCA). The optimal clustering model (K-Means with 3 clusters and PCA) was selected based on Elbow Method, Silhouette Score, and Davies-Bouldin Index. The results identified three distinct poverty clusters, providing actionable recommendations for targeted poverty alleviation policies. 
 - **Tools**: R (Data Preprocessing, EDA, Clustering Analysis)
@@ -101,6 +105,7 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 
 ### Sentiment Analysis of Indonesian Public Opinion on Electric Cars 
 [View Project](https://github.com/maryesta/Sentiment-Classification-of-Indonesian-Public-Opinion-on-Electric-Cars)
+
 Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
 - This project, part of the Final Data Competition ISFEST 2024 by UMN, aimed to classify public sentiment toward electric cars in Indonesia using machine learning. The dataset, consisting of social media comments, was preprocessed through text cleaning, lemmatization, stopword removal, and TF-IDF vectorization. Ten classification models were evaluated. To address class imbalance, SMOTE (Synthetic Minority Over-sampling Technique) was applied, and hyperparameter tuning was performed using GridSearchCV. The SVM (Support Vector Machine) model achieved the best performance, with a test accuracy of 73.03% and a ROC-AUC score of 0.8126. 
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, NLP, Sentiment Analysis)
@@ -109,6 +114,7 @@ Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
 
 ### Predictive Modeling of Hazardous Waste Generation 
 [View Project](https://github.com/maryesta/Predictive-Modeling-of-Hazardous-Waste-Generation)
+
 Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
 - A machine learning model was developed to predict the total hazardous waste generated in the ten most populous states in the United States as part of the Final National Data Science Competition by Universitas Al Azhar. The project utilized data from the Environmental Protection Agency (EPA) and followed the CRISP-DM methodology, including data cleaning, preprocessing, and feature engineering. Techniques such as K-Means clustering for geographical segmentation, feature importance analysis, and SHAP values were employed to interpret model results. Ridge Regression was selected as the best-performing model after hyperparameter tuning, achieving optimal results with metrics such as MAE, RMSE, and R-squared.
 - **Tools**: Phyton (Preprocessing, EDA, Feature Engineering, Modeling (Regression), Simulation)
@@ -116,6 +122,7 @@ Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
 
 ### Harmonization of Learning Styles and Social Connectivity 
 [View Project](https://github.com/maryesta/Harmonization-of-Learning-Styles-and-Social-Connectivity)
+
 3rd Place LKTI Competition Marcsion 2023 by Universitas Padjajaran
 - This research focuses on the importance of learning styles in the teaching process, particularly in the context of Society 5.0. The study aims to develop an adaptive digital learning platform that utilizes student performance data and algorithms for dynamic learning. It also addresses the challenges of minimal social interaction in online learning. By using K-means clustering, the study categorizes students based on their VARK learning styles, gathered through questionnaires. The research involves 67 first-year mathematics students at the University of Indonesia and aims to guide the development of effective adaptive learning platforms. This paper was submitted to the national competition LKTI Marcsion 2023 by Himatika FMIPA Universitas Padjajaran, where it won third place.
 - **Tools**: Phyton (Preprocessing, EDA, Clustering Analysis), Excel/Spreadsheet (Preprocessing)
@@ -123,6 +130,7 @@ Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
 
 ### Job Search and Recruitment Database System 
 [View Project](https://github.com/maryesta/Job-Search-and-Recruitment-Database-System)
+
 Academic Project
 - The aim of this project is to facilitate job seekers with efficient job search features and customizable filters. It also helps companies to effectively promote their job vacancies to potential candidates, manage job descriptions, salaries, and offers, and streamline the interview process with structured information. The implementation of SQL and GUI in this project has been successful, with a well-structured database consisting of various relational tables. The project includes features like login, registration, job search, application, and result viewing.
 - **Tools**: SQL, Phyton, Excel/Spreadsheet
