@@ -30,8 +30,10 @@ July 2022 - Present
 ## Achievements
 
 - **Finalist in National Data Science Competition Fortex 5.0 2025** by Universitas Al-Azhar
+  ![image](https://github.com/user-attachments/assets/ddfaedbc-317d-4318-8ef0-84a7342198ee)
 - **3rd Place in Data Science Competition Pekan RISTEK 2024** by RISTEK Fasilkom UI
-- **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University 
+- **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/binus%20sertif.jpg)
 - **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
 - **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
 - **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
