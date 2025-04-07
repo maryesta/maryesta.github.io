@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Maryesta Apriliani Sihombing
 
 ### Data Analytics & Data Science Enthusiast
@@ -6,10 +8,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryesta.apriliani@ui.ac.id)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryesta)
 
-## Data Analytics and Data Science Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/maryesta-apriliani-sihombing/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:maryesta.apriliani@ui.ac.id)
+</div>
 
 ## About Me
 
