@@ -121,8 +121,8 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 - **[Boot Camp Digital Skill Fair 17: Data Science](https://drive.google.com/file/d/1QGKEETp_V2acNU6jOaTIJyUToGPV1SOj/view?usp=sharing)** - dibimbing.id, 2023
 
 ## Languages
-- GB English (Working Proficiency)
-- ID Indonesian (Native)
+- English
+- Indonesian (Native)
 
 ---
 
@@ -134,5 +134,3 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 <div align="center">
   
 ### 🔍 Currently seeking internship opportunities in Data Analytics, Data Science, and Business Intelligence
-
-[![Profile Views](https://komarev.com/ghpvc/?username=maryesta&color=brightgreen&style=flat)](https://github.com/maryesta)
