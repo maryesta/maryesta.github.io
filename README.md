@@ -24,7 +24,7 @@ My strength lies in translating complex datasets into clear and actionable busin
 ## Education
 
 **Universitas Indonesia, Depok**  
-*Major in Statistics | Concentration: Data Science | Current GPA: 3.88/4.00 | 6th Semester*  
+*Majoring in Statistics | Concentration: Data Science | Current GPA: 3.88/4.00 | 6th Semester*  
 July 2022 - Present
 
 ## Achievements and Honor
