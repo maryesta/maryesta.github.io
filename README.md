@@ -35,7 +35,7 @@ July 2022 - Present
 - **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University
   ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/binus%20sertif.jpg)
 - **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/isfest%20sertif.jpg.jpg)
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/isfest%20sertif.jpg)
 - **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
   ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/compfest%20best.jpg)
 - **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
