@@ -56,7 +56,6 @@ Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
 ![image](https://github.com/user-attachments/assets/9673b22c-d0c3-49ad-8bea-22df50aa0f00)
 
----
 
 ### [Medicine Recommendation System Using Content-Based Filtering](https://github.com/maryesta/Medicine-Recommendation-System)
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
@@ -113,6 +112,16 @@ Statistical Analysis, Predictive Modeling and Machine Learning, Data Cleaning, D
 Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skills, Interpersonal Communication, Cross-Functional Collaboration.
 
 ## Certifications
+
+<div align="center">
+  
+[![Google](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)
+[![UI](https://img.shields.io/badge/Data_Science_Academy-FF5722?style=for-the-badge&logo=academia&logoColor=white)](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)
+[![BI](https://img.shields.io/badge/Business_Intelligence-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)
+  
+</div>
+
+
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
 - **[Data Science Academy ](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)** - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
 - **[Business Intelligence SISTECH Portfolio Program](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)** - RISTEK Faculty of Computer Science Universitas Indonesia, 2024
