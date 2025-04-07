@@ -80,19 +80,11 @@ Academic Project
 
 ## Skills
 
-### Technical Skills
-- **Programming Languages**: Python, R, SQL
-- **Data Visualization**: Tableau, Google Looker Studio, Matplotlib, Seaborn
-- **Machine Learning**: Regression, Classification, Clustering, NLP
-- **Tools & Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, NLTK, Excel, Google Sheets
-- **Techniques**: Data Cleaning, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+### Tools: Python, SQL, Tableau, Google Looker Studio, R, Microsoft Office (Excel, PowerPoint, Word), Google Suites (Spreadsheet, Docs, Slides).
 
-### Soft Skills
-- Analytical and Data-Driven Problem Solving
-- Detail-Oriented Organizational Skills
-- Interpersonal Communication
-- Cross-Functional Collaboration
-- Team Management
+### Technical Skills: Statistical Analysis, Predictive Modeling and Machine Learning, Data Cleaning, Data Visualization & Dashboard Design, Data Reporting, Data Querying.
+
+### Soft Skills: Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skills, Interpersonal Communication, Cross-Functional Collaboration.
 
 ## Certifications
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
