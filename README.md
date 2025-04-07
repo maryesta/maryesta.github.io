@@ -1,16 +1,3 @@
-<div align="center">
-  
-# Maryesta Apriliani Sihombing
-
-### Data Analytics & Data Science Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryesta-apriliani-sihombing/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryesta.apriliani@ui.ac.id)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryesta)
-
-</div>
-
-
 <h1 align="center">Maryesta Apriliani Sihombing</h1>
 <h3 align="center">Data Analytics & Data Science Enthusiast</h3>
 <p align="center">
@@ -27,7 +14,17 @@ Sixth-semester Statistics student at Universitas Indonesia with practical experi
 My strength lies in translating complex datasets into clear and actionable business insights. Eager to apply strong analytical and leadership capabilities to drive data-informed decision-making in dynamic environments.
 
 <div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   
+</div>
+
+<div align="center">
+
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
