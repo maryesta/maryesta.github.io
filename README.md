@@ -33,16 +33,42 @@ July 2022 - Present
   ![image](https://github.com/user-attachments/assets/ddfaedbc-317d-4318-8ef0-84a7342198ee)
 - **3rd Place in Data Science Competition Pekan RISTEK 2024** by RISTEK Fasilkom UI
 - **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/binus%20sertif.jpg)
+  ![image](https://github.com/user-attachments/assets/f679c5ec-2aea-44ae-89d4-1f285fde19dc)
 - **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/isfest%20sertif.jpg)
+  ![image](https://github.com/user-attachments/assets/05501388-601a-4315-a93a-90371493bce8)
 - **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/compfest%20best.jpg)
+  ![image](https://github.com/user-attachments/assets/a09174f0-a42a-4f7c-bd4e-71c33924f572)
 - **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/sistech%20best%20final.jpg)
+  ![image](https://github.com/user-attachments/assets/2828b29c-e6e6-4a0c-b544-a1a1c7ab0e5c)
 - **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/lkti%20sertif.jpg)
+  ![image](https://github.com/user-attachments/assets/0d0f7a8d-1a7f-4eb0-830c-4d65873f9d58)
 - **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture
+
+
+## Achievements
+
+- **Finalist in National Data Science Competition Fortex 5.0 2025** by Universitas Al-Azhar
+  <img src="https://github.com/user-attachments/assets/ddfaedbc-317d-4318-8ef0-84a7342198ee" width="300" alt="Fortex 5.0 Certificate">
+
+- **3rd Place in Data Science Competition Pekan RISTEK 2024** by RISTEK Fasilkom UI
+
+- **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University
+  <img src="https://github.com/user-attachments/assets/f679c5ec-2aea-44ae-89d4-1f285fde19dc" width="300" alt="SPSS 2024 Certificate">
+
+- **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
+  <img src="https://github.com/user-attachments/assets/05501388-601a-4315-a93a-90371493bce8" width="300" alt="ISFEST 2024 Certificate">
+
+- **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
+  <img src="https://github.com/user-attachments/assets/a09174f0-a42a-4f7c-bd4e-71c33924f572" width="300" alt="Compfest Certificate">
+
+- **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
+  <img src="https://github.com/user-attachments/assets/2828b29c-e6e6-4a0c-b544-a1a1c7ab0e5c" width="300" alt="Sistech Certificate">
+
+- **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran
+  <img src="https://github.com/user-attachments/assets/0d0f7a8d-1a7f-4eb0-830c-4d65873f9d58" width="300" alt="LKTI Marscion Certificate">
+
+- **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture
+
 
 ## Experience
 
@@ -120,21 +146,25 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 ## Certifications and Courses
 
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/google.jpg)
+  ![image](https://github.com/user-attachments/assets/4e18e3c8-deba-40b3-8b62-201033abfba2)
 - **[Data Science Academy ](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)** - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/compfest%20parti.jpg)
+  ![image](https://github.com/user-attachments/assets/924d2614-16dd-4343-8633-621db0b6d460)
 - **[Business Intelligence SISTECH Portfolio Program](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)** - RISTEK Faculty of Computer Science Universitas Indonesia, 2024
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/sistech%20paticipant.jpg)
+  ![image](https://github.com/user-attachments/assets/070241a2-3987-46cc-8b95-8a6d19c421ec)
 - **[Intro to Data Analytics Course](https://drive.google.com/file/d/1SPIXG-oDl3yWT_uk5JPHgcLd9kpkP8TN/view?usp=sharing)** - RevoU, 2023
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/revou.jpg)
+  ![image](https://github.com/user-attachments/assets/b4bee20e-4b38-4240-8cf3-23ab408b1b1e)
 - **[Data Science Mini Bootcamp](https://drive.google.com/drive/folders/1AUe2hhfpxa9ljmKcorPSQnBBb-dpXdT1?usp=sharing)** - DQLab, 2023
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/dqlab.jpg)
+  ![image](https://github.com/user-attachments/assets/14c7518f-3fdb-47f1-b1bd-00809d4bd3e5)
 - **[Boot Camp Digital Skill Fair 17: Data Science](https://drive.google.com/file/d/1QGKEETp_V2acNU6jOaTIJyUToGPV1SOj/view?usp=sharing)** - dibimbing.id, 2023
-  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/dsf.jpg)
+  ![image](https://github.com/user-attachments/assets/fb3eb1b6-a214-4ada-856d-43913f06ad28)
+
 
 ## Languages
-- English
 - Indonesian (Native)
+- English
+  ![image](https://github.com/user-attachments/assets/2130f16f-04fb-4409-8644-ab06e39a8ced)
+
+
 
 ---
 
