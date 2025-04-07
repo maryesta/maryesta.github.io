@@ -149,7 +149,7 @@ Academic Project
 Python, SQL, Tableau, Google Looker Studio, R, Microsoft Office (Excel, PowerPoint, Word), Google Suites (Spreadsheet, Docs, Slides).
 
 ### Technical Skills: 
-Statistical Analysis, Predictive Modeling and Machine Learning, Data Cleaning, Data Visualization & Dashboard Design, Data Reporting, Data Querying.
+Data Analytics, Predictive Modeling and Machine Learning, Data Visualization & Dashboard Design, Statistical Analysis, ForecasData Cleaning, Data Reporting, Data Querying
 
 ### Soft Skills: 
 Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skills, Interpersonal Communication, Cross-Functional Collaboration.
@@ -172,8 +172,8 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 
 
 ## Languages
-- Indonesian (Native)
 - English
+- Indonesian (Native)
 
 
 
