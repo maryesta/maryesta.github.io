@@ -126,11 +126,6 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 
 ---
 
-🔍 Currently seeking internship opportunities in Data Analytics, Data Science, and Business Intelligence.
-
-
----
-
 <div align="center">
   
-### 🔍 Currently seeking internship opportunities in Data Analytics, Data Science, and Business Intelligence
+🔍 Currently seeking internship opportunities in Data Analytics, Data Science, and Business Intelligence
