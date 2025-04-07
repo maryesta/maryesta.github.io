@@ -127,3 +127,12 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 ---
 
 🔍 Currently seeking internship opportunities in Data Analytics, Data Science, and Business Intelligence.
+
+
+---
+
+<div align="center">
+  
+### 🔍 Currently seeking internship opportunities in Data Analytics, Data Science, and Business Intelligence
+
+[![Profile Views](https://komarev.com/ghpvc/?username=maryesta&color=brightgreen&style=flat)](https://github.com/maryesta)
