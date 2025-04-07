@@ -45,15 +45,15 @@ July 2022 - Present
 
 - **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
 
-  <img src="https://github.com/user-attachments/assets/a09174f0-a42a-4f7c-bd4e-71c33924f572" width="300" alt="Compfest Certificate">
+  <img src="https://github.com/user-attachments/assets/0d0f7a8d-1a7f-4eb0-830c-4d65873f9d58" width="300" alt="LKTI Marscion Certificate">
 
 - **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
 
-  <img src="https://github.com/user-attachments/assets/2828b29c-e6e6-4a0c-b544-a1a1c7ab0e5c" width="300" alt="Sistech Certificate">
+  <img src="https://github.com/user-attachments/assets/a09174f0-a42a-4f7c-bd4e-71c33924f572" width="300" alt="Compfest Certificate">
 
 - **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran
 
-  <img src="https://github.com/user-attachments/assets/0d0f7a8d-1a7f-4eb0-830c-4d65873f9d58" width="300" alt="LKTI Marscion Certificate">
+  <img src="https://github.com/user-attachments/assets/2828b29c-e6e6-4a0c-b544-a1a1c7ab0e5c" width="300" alt="Sistech Certificate">
 
 - **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture
 
