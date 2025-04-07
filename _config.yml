@@ -1,44 +1,5 @@
-# Site Configuration
-title: "Maryesta Apriliani Sihombing"
-subtitle: "Data Science & Analytics Specialist"
+title: Maryesta Apriliani Sihombing
 logo: /assets/img/cropped_image.png
-logo_width: 100px  # Custom width for your profile image
-logo_height: 100px # Custom height (maintain aspect ratio)
-#logo_style: "round" # Options: round, square, circle
-
-# Display Settings
-show_downloads: true
-show_social_links: true
-show_header_image: false
-
-# Color Scheme
-accent_color: "#2962ff"  # Professional blue accent
-background_color: "#f8f9fa"  # Light gray background
-text_color: "#212529"  # Dark gray text for readability
-
-# Layout Options
-theme: jekyll-theme-minimal
-layout: default
-header_full_height: true
-
-# Navigation
-links:
-  - name: "Portfolio"
-    url: "https://drive.google.com/your-portfolio-link"
-  - name: "LinkedIn"
-    url: "https://linkedin.com/in/your-profile"
-  - name: "GitHub"
-    url: "https://github.com/your-username"
-
-# Footer
-footer:
-  copyright: "© 2024 Maryesta Apriliani Sihombing"
-  credits: "Built with Jekyll"
-
-
-
-#title: Maryesta Apriliani Sihombing
-#logo: /assets/img/cropped_image.png
 #description: text below image
-#show_downloads: true
-#theme: jekyll-theme-minimal
+show_downloads: true
+theme: jekyll-theme-minimal
