@@ -154,21 +154,21 @@ Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skill
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
   ![image](https://github.com/user-attachments/assets/4e18e3c8-deba-40b3-8b62-201033abfba2)
 - **[Data Science Academy ](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)** - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
-  ![image](https://github.com/user-attachments/assets/924d2614-16dd-4343-8633-621db0b6d460)
+  ![image](https://github.com/user-attachments/assets/fb3eb1b6-a214-4ada-856d-43913f06ad28)
 - **[Business Intelligence SISTECH Portfolio Program](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)** - RISTEK Faculty of Computer Science Universitas Indonesia, 2024
   ![image](https://github.com/user-attachments/assets/070241a2-3987-46cc-8b95-8a6d19c421ec)
 - **[Intro to Data Analytics Course](https://drive.google.com/file/d/1SPIXG-oDl3yWT_uk5JPHgcLd9kpkP8TN/view?usp=sharing)** - RevoU, 2023
-  ![image](https://github.com/user-attachments/assets/b4bee20e-4b38-4240-8cf3-23ab408b1b1e)
+  ![image](https://github.com/user-attachments/assets/924d2614-16dd-4343-8633-621db0b6d460)
 - **[Data Science Mini Bootcamp](https://drive.google.com/drive/folders/1AUe2hhfpxa9ljmKcorPSQnBBb-dpXdT1?usp=sharing)** - DQLab, 2023
-  ![image](https://github.com/user-attachments/assets/14c7518f-3fdb-47f1-b1bd-00809d4bd3e5)
+  ![image](https://github.com/user-attachments/assets/b4bee20e-4b38-4240-8cf3-23ab408b1b1e)
 - **[Boot Camp Digital Skill Fair 17: Data Science](https://drive.google.com/file/d/1QGKEETp_V2acNU6jOaTIJyUToGPV1SOj/view?usp=sharing)** - dibimbing.id, 2023
-  ![image](https://github.com/user-attachments/assets/fb3eb1b6-a214-4ada-856d-43913f06ad28)
+    ![image](https://github.com/user-attachments/assets/14c7518f-3fdb-47f1-b1bd-00809d4bd3e5)
+  
 
 
 ## Languages
 - Indonesian (Native)
 - English
-  ![image](https://github.com/user-attachments/assets/2130f16f-04fb-4409-8644-ab06e39a8ced)
 
 
 
