@@ -52,22 +52,25 @@ Dec 2024 - Feb 2025
 
 ### [Customer Review Analysis of Ruangguru](https://github.com/maryesta/Customer-Review-Analysis-of-Ruangguru)
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
+![image](https://github.com/user-attachments/assets/9673b22c-d0c3-49ad-8bea-22df50aa0f00)
 - This project involved a comprehensive analysis of customer reviews for the Ruangguru app, aimed at identifying key areas for improvement and enhancing user satisfaction. Utilizing tools such as Tableau, the project encompassed creating a detailed report with slides and an interactive dashboard. The analysis focused on user feedback related to interface design, app features, learning content, and technical issues. The findings highlighted strengths in learning content and features but revealed significant challenges in user interface and technical performance. Recommended actions included enhancing server capacity during peak usage and improving the app's user interface. It was showcased during Sister in Tech, organized by Ristek, Faculty of Computer Science, University of Indonesia, where it was honored with the Best Final Project award.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
-![image](https://github.com/user-attachments/assets/9673b22c-d0c3-49ad-8bea-22df50aa0f00)
+
 
 
 ### [Medicine Recommendation System Using Content-Based Filtering](https://github.com/maryesta/Medicine-Recommendation-System)
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
+![image](https://github.com/user-attachments/assets/ba1dd424-d4f8-4a36-bb31-9ad2885aa179)
 -	Developed "Medicine Recommendation" as a final project, utilizing content-based filtering algorithms such as cosine similarity and weighted similarity with Phyton to build a personalized medicine recommendation engine. Created an interactive Tableau dashboard to visualize recommendation results, improving interpretability and user understanding for the panel of judges. Completed a 2-month intensive bootcamp focused on Data Science, Machine Learning, and Data Analytics, gaining hands-on experience with end-to-end data workflows.
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Content-based recommendation system), Tableau (Visualization)
-![image](https://github.com/user-attachments/assets/ba1dd424-d4f8-4a36-bb31-9ad2885aa179)
+
 
 ### [Rainfall Prediction Using Machine Learning](https://github.com/maryesta/Rainfall-Prediction-Using-Machine-Learning)
 3rd Place in Data Competition Pekan RISTEK 2024 by Faculty of Computer Science Universitas Indonesia
+![image](https://github.com/user-attachments/assets/a6df3ac3-5231-43f0-a1bc-04738f5c9ac2)
 - A machine learning model was developed to predict rainfall using weather data as part of the Pekan Ristek Data Competition 2024 organized by the Faculty of Computer Science at Universitas Indonesia, securing 3rd place. The project involved cleaning and preprocessing datasets, performing exploratory data analysis (EDA), and addressing skewed data distributions through Box-Cox and log transformations. Feature engineering included handling categorical variables with label encoding and normalizing numerical features. Multiple regression models were evaluated using KFold cross-validation and Mean Squared Error (MSE). CatBoostRegressor was selected as the final model due to its performance, and SHAP analysis was used to interpret feature importance. Hyperparameter tuning with Optuna further optimized the model, achieving competitive results on Kaggle.
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Regression Modeling)
-![image](https://github.com/user-attachments/assets/a6df3ac3-5231-43f0-a1bc-04738f5c9ac2)
+
 
 ### [Clustering Analysis of Poverty Factors in Indonesia](https://github.com/maryesta/Clustering-Analysis-of-Poverty-Factors-in-Indonesian)
 2nd Winner of Statistics Olympiad SPSS 2024 by Binus University
