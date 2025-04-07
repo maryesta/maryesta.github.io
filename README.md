@@ -50,16 +50,13 @@ Dec 2024 - Feb 2025
 
 ## Projects
 
-<details open>
-<summary><strong>Featured Projects</strong></summary>
-<br>
-
 ### [Customer Review Analysis of Ruangguru](https://github.com/maryesta/Customer-Review-Analysis-of-Ruangguru)
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
 - This project involved a comprehensive analysis of customer reviews for the Ruangguru app, aimed at identifying key areas for improvement and enhancing user satisfaction. Utilizing tools such as Tableau, the project encompassed creating a detailed report with slides and an interactive dashboard. The analysis focused on user feedback related to interface design, app features, learning content, and technical issues. The findings highlighted strengths in learning content and features but revealed significant challenges in user interface and technical performance. Recommended actions included enhancing server capacity during peak usage and improving the app's user interface. It was showcased during Sister in Tech, organized by Ristek, Faculty of Computer Science, University of Indonesia, where it was honored with the Best Final Project award.
 - **Tools**: Python (Preprocessing, EDA, Analysis), Looker Studio (Visualization), Excel/Spreadsheet (Preprocessing)
 ![image](https://github.com/user-attachments/assets/9673b22c-d0c3-49ad-8bea-22df50aa0f00)
-<img src="https://github.com/user-attachments/assets/9673b22c-d0c3-49ad-8bea-22df50aa0f00" alt="Customer Review Dashboard" width="600"/>
+
+---
 
 ### [Medicine Recommendation System Using Content-Based Filtering](https://github.com/maryesta/Medicine-Recommendation-System)
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
