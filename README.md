@@ -117,14 +117,20 @@ Statistical Analysis, Predictive Modeling and Machine Learning, Data Cleaning, D
 ### Soft Skills: 
 Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skills, Interpersonal Communication, Cross-Functional Collaboration.
 
-## Certifications
+## Certifications and Courses
 
 - **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/6F8QL1VE1RVP)** - Google, 2024
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/google.jpg)
 - **[Data Science Academy ](https://drive.google.com/drive/folders/1HN-2Ns2go_er5_FuqP73Ob2YQMDDhrE1?usp=sharing)** - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/compfest%20parti.jpg)
 - **[Business Intelligence SISTECH Portfolio Program](https://drive.google.com/file/d/1tn57djnURLZs8pH9U38bpil3FPSAgq-s/view?usp=sharing)** - RISTEK Faculty of Computer Science Universitas Indonesia, 2024
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/sistech%20paticipant.jpg)
 - **[Intro to Data Analytics Course](https://drive.google.com/file/d/1SPIXG-oDl3yWT_uk5JPHgcLd9kpkP8TN/view?usp=sharing)** - RevoU, 2023
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/revou.jpg)
 - **[Data Science Mini Bootcamp](https://drive.google.com/drive/folders/1AUe2hhfpxa9ljmKcorPSQnBBb-dpXdT1?usp=sharing)** - DQLab, 2023
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/dqlab.jpg)
 - **[Boot Camp Digital Skill Fair 17: Data Science](https://drive.google.com/file/d/1QGKEETp_V2acNU6jOaTIJyUToGPV1SOj/view?usp=sharing)** - dibimbing.id, 2023
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/dsf.jpg)
 
 ## Languages
 - English
