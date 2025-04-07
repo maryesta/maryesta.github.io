@@ -27,7 +27,7 @@ My strength lies in translating complex datasets into clear and actionable busin
 *Major in Statistics | Minor in Applied Statistics: Data Science | Current GPA: 3.88/4.00 | 6th Semester*  
 July 2022 - Present
 
-## Achievements
+## Achievements and Honor
 
 - **Finalist in National Data Science Competition Fortex 5.0 2025** by Universitas Al-Azhar
   ![image](https://github.com/user-attachments/assets/ddfaedbc-317d-4318-8ef0-84a7342198ee)
@@ -35,9 +35,13 @@ July 2022 - Present
 - **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University
   ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/binus%20sertif.jpg)
 - **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/isfest%20sertif.jpg.jpg)
 - **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/compfest%20best.jpg)
 - **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/sistech%20best%20final.jpg)
 - **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran
+  ![image](https://github.com/maryesta/maryesta.github.io/blob/main/assets/img/lkti%20sertif.jpg)
 - **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture
 
 ## Experience
