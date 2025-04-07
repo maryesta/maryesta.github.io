@@ -64,9 +64,15 @@ July 2022 - Present
 *Linear Algebra Assistant Lecturer*  
 Jan 2024 - Present
 
+### Pojok Statistik UI – Badan Pusat Statistik and Universitas Indonesia
+*Head of Consultation and Service Division*  
+Nov 2024 – Present
+
 ### IPDS Team Intern - Badan Pusat Statistik Kota Depok, Depok
 *IPDS Team Intern*  
 Dec 2024 - Feb 2025
+
+
 
 ## Projects
 
