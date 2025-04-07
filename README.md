@@ -12,7 +12,19 @@
 
 ## About Me
 
-Sixth-semester Statistics student at Universitas Indonesia with practical experience in data analysis through an internship at BPS Depok, 3+ data competition wins, and advanced coursework in data analytics/science. Proficient in data tools including Excel, Python, SQL, Tableau, Looker Studio, and R for end-to-end data processing, analysis, and visualization. Skilled in translating complex datasets into clear and actionable business insights. Eager to apply strong analytical and leadership capabilities to drive data-informed decision-making in dynamic environments.
+Sixth-semester Statistics student at Universitas Indonesia with practical experience in data analysis through an internship at BPS Depok, 3+ data competition wins, and advanced coursework in data analytics/science. Proficient in data tools including Excel, Python, SQL, Tableau, Looker Studio, and R for end-to-end data processing, analysis, and visualization. 
+
+My strength lies in translating complex datasets into clear and actionable business insights. Eager to apply strong analytical and leadership capabilities to drive data-informed decision-making in dynamic environments.
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  
+</div>
 
 ## Education
 
