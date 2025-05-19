@@ -102,6 +102,12 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Regression Modeling)
 ![image](https://github.com/user-attachments/assets/a6df3ac3-5231-43f0-a1bc-04738f5c9ac2)
 
+### Fine-Tuning IndoBERT for Sentiment Analysis on Sayurbox App Reviews 
+[View Project](https://github.com/maryesta/Fine-Tuning-IndoBERT-for-Sentiment-Analysis-on-Sayurbox-App-Reviews)
+
+- This project focused on fine-tuning the IndoBERT model to perform sentiment analysis on user reviews of the Sayurbox app, collected via scraping from the Google Play Store. The goal was to classify sentiments into positive, neutral, and negative categories, providing actionable insights for service improvement. Key steps included data preprocessing (minimal for modeling and detailed for EDA), sentiment labeling using VADER and custom lexicons, and fine-tuning IndoBERT-base-p1 and IndoBERT-base-p2 models. Exploratory data analysis revealed a strong dominance of positive sentiments, while negative feedback highlighted areas like delivery and app performance. The fine-tuned IndoBERT-base-p2 model achieved 93% accuracy, though neutral sentiment prediction faced challenges due to data imbalance. The results offer valuable recommendations for Sayurbox to refine user experience and address critical pain points.
+- **Tools**: Python (Google Play Scraper, Pandas/Numpy for Data Preprocessing, VADER & Custom Lexicons for Sentiment Labeling, Transformers for IndoBERT Fine-Tuning, Matplotlib/Seaborn for EDA), Excel (Manual Sentiment Labeling)
+
 ### Clustering Analysis of Poverty Factors in Indonesia 
 [View Project](https://github.com/maryesta/Clustering-Analysis-of-Poverty-Factors-in-Indonesian)
 
