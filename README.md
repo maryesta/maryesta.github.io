@@ -21,40 +21,9 @@ Final-year Statistics student at Universitas Indonesia with strong passion for d
 ## Education
 
 **Universitas Indonesia, Depok**  
-*Majoring in Statistics | Concentration: Data Science | Current GPA: 3.88/4.00 | 6th Semester*  
+*Majoring in Statistics | Concentration: Data Science | Current GPA: 3.90/4.00 | 7th Semester*  
 July 2022 - Present
 - Related Courses: Data Mining & Bussiness Intelligence, Exploratory Data Analysis & Visualization, Database for Data Science, Softskill for Data Science, Forecasting Method, Multivariate Analysis, etc.
-
-## Achievements and Honor
-
-- **Finalist in National Data Science Competition Fortex 5.0 2025** by Universitas Al-Azhar
-
-  <img src="https://github.com/user-attachments/assets/ddfaedbc-317d-4318-8ef0-84a7342198ee" width="300" alt="Fortex 5.0 Certificate">
-
-- **3rd Place in Data Science Competition Pekan RISTEK 2024** by RISTEK Fasilkom UI
-
-- **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University
-
-  <img src="https://github.com/user-attachments/assets/f679c5ec-2aea-44ae-89d4-1f285fde19dc" width="300" alt="SPSS 2024 Certificate">
-
-- **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
-
-  <img src="https://github.com/user-attachments/assets/05501388-601a-4315-a93a-90371493bce8" width="300" alt="ISFEST 2024 Certificate">
-
-- **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
-
-  <img src="https://github.com/user-attachments/assets/0d0f7a8d-1a7f-4eb0-830c-4d65873f9d58" width="300" alt="LKTI Marscion Certificate">
-
-- **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
-
-  <img src="https://github.com/user-attachments/assets/a09174f0-a42a-4f7c-bd4e-71c33924f572" width="300" alt="Compfest Certificate">
-
-- **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran
-
-  <img src="https://github.com/user-attachments/assets/2828b29c-e6e6-4a0c-b544-a1a1c7ab0e5c" width="300" alt="Sistech Certificate">
-
-- **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture
-
 
 ## Experience
 
@@ -145,6 +114,38 @@ Academic Project
 - The aim of this project is to facilitate job seekers with efficient job search features and customizable filters. It also helps companies to effectively promote their job vacancies to potential candidates, manage job descriptions, salaries, and offers, and streamline the interview process with structured information. The implementation of SQL and GUI in this project has been successful, with a well-structured database consisting of various relational tables. The project includes features like login, registration, job search, application, and result viewing.
 - **Tools**: SQL, Phyton, Excel/Spreadsheet
 ![image](https://github.com/user-attachments/assets/7884e797-7c25-4d9b-89a5-fa1ff7c3f64d)
+
+
+## Achievements and Honor
+
+- **Finalist in National Data Science Competition Fortex 5.0 2025** by Universitas Al-Azhar
+
+  <img src="https://github.com/user-attachments/assets/ddfaedbc-317d-4318-8ef0-84a7342198ee" width="300" alt="Fortex 5.0 Certificate">
+
+- **3rd Place in Data Science Competition Pekan RISTEK 2024** by RISTEK Fasilkom UI
+
+- **2nd Winner of Statistics Olympiad SPSS 2024** by BINUS University
+
+  <img src="https://github.com/user-attachments/assets/f679c5ec-2aea-44ae-89d4-1f285fde19dc" width="300" alt="SPSS 2024 Certificate">
+
+- **Finalist in Data Competition ISFEST 2024** by Universitas Multimedia Nusantara Jakarta
+
+  <img src="https://github.com/user-attachments/assets/05501388-601a-4315-a93a-90371493bce8" width="300" alt="ISFEST 2024 Certificate">
+
+- **Best Case Study Team at Graduation Night Academy 2024** by Compfest 16 Fasilkom UI
+
+  <img src="https://github.com/user-attachments/assets/0d0f7a8d-1a7f-4eb0-830c-4d65873f9d58" width="300" alt="LKTI Marscion Certificate">
+
+- **Best Final Project Team Sistech Portfolio Program 2024** by Ristek Fasilkom UI
+
+  <img src="https://github.com/user-attachments/assets/a09174f0-a42a-4f7c-bd4e-71c33924f572" width="300" alt="Compfest Certificate">
+
+- **3rd Winner of Final LKTI Marscion 2023** by Himatika FMIPA Universitas Padjadjaran
+
+  <img src="https://github.com/user-attachments/assets/2828b29c-e6e6-4a0c-b544-a1a1c7ab0e5c" width="300" alt="Sistech Certificate">
+
+- **Beasiswa Unggulan Masyarakat Berprestasi 2023 Awardee** by Ministry of Education and Culture
+
 
 ## Skills
 
