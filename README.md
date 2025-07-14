@@ -46,7 +46,12 @@ Dec 2024 - Feb 2025
 Explore selected highlights of my work through the interactive slide deck below:
 📂 [Slide Portfolio](https://drive.google.com/drive/folders/1LtA8iiZ2t1-8JmUEfijAe7AdLpfGBngD)
 
-### Customer Review Analysis of Ruangguru
+### Road Network and Healthcare Accessibility Analysis Using Geospatial Data: A Case Study of Sukabumi City with OpenStreetMap and OSMNX (2025) 
+[View Project](https://github.com/maryesta/sukabumi-health-road-network/tree/main)
+
+This project explores the structure of Sukabumi City’s road network and its relation to healthcare accessibility using open geospatial data from OpenStreetMap and Python-based tools such as OSMNX and NetworkX. By performing multi-centrality analysis (degree, betweenness, closeness, eigenvector), the study identified strategic nodes critical to urban mobility. These insights were then integrated with spatial distance analysis to healthcare facilities to uncover underserved areas—termed healthcare deserts. The project resulted in actionable recommendations for optimal facility placement, highlighting the value of geospatial analytics in urban planning and equitable public service delivery.
+
+### Customer Review Analysis of Ruangguru (2024)
 [View Project](https://github.com/maryesta/Customer-Review-Analysis-of-Ruangguru)
 
 Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of Computer Science Universitas Indonesia
@@ -55,7 +60,7 @@ Final Project SISTECH 2024 Business Intelligence Portfolio Program by Faculty of
 ![image](https://github.com/user-attachments/assets/9673b22c-d0c3-49ad-8bea-22df50aa0f00)
 
 
-### Medicine Recommendation System Using Content-Based Filtering 
+### Medicine Recommendation System Using Content-Based Filtering (2024)
 [View Project](https://github.com/maryesta/Medicine-Recommendation-System)
 
 Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Universitas Indonesia
@@ -63,7 +68,7 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Content-based recommendation system), Tableau (Visualization)
 ![image](https://github.com/user-attachments/assets/ba1dd424-d4f8-4a36-bb31-9ad2885aa179)
 
-### Rainfall Prediction Using Machine Learning 
+### Rainfall Prediction Using Machine Learning (2024)
 [View Project](https://github.com/maryesta/Rainfall-Prediction-Using-Machine-Learning)
 
 3rd Place in Data Competition Pekan RISTEK 2024 by Faculty of Computer Science Universitas Indonesia
@@ -71,13 +76,13 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 - **Tools**: Python (Preprocessing, EDA, Feature Engineering, Regression Modeling)
 ![image](https://github.com/user-attachments/assets/a6df3ac3-5231-43f0-a1bc-04738f5c9ac2)
 
-### Fine-Tuning IndoBERT for Sentiment Analysis on Sayurbox App Reviews 
+### Fine-Tuning IndoBERT for Sentiment Analysis on Sayurbox App Reviews (2025)
 [View Project](https://github.com/maryesta/Fine-Tuning-IndoBERT-for-Sentiment-Analysis-on-Sayurbox-App-Reviews)
 
 - This project focused on fine-tuning the IndoBERT model to perform sentiment analysis on user reviews of the Sayurbox app, collected via scraping from the Google Play Store. The goal was to classify sentiments into positive, neutral, and negative categories, providing actionable insights for service improvement. Key steps included data preprocessing (minimal for modeling and detailed for EDA), sentiment labeling using VADER and custom lexicons, and fine-tuning IndoBERT-base-p1 and IndoBERT-base-p2 models. Exploratory data analysis revealed a strong dominance of positive sentiments, while negative feedback highlighted areas like delivery and app performance. The fine-tuned IndoBERT-base-p2 model achieved 93% accuracy, though neutral sentiment prediction faced challenges due to data imbalance. The results offer valuable recommendations for Sayurbox to refine user experience and address critical pain points.
 - **Tools**: Python (Google Play Scraper, Pandas/Numpy for Data Preprocessing, VADER & Custom Lexicons for Sentiment Labeling, Transformers for IndoBERT Fine-Tuning, Matplotlib/Seaborn for EDA), Excel (Manual Sentiment Labeling)
 
-### Clustering Analysis of Poverty Factors in Indonesia 
+### Clustering Analysis of Poverty Factors in Indonesia (2024)
 [View Project](https://github.com/maryesta/Clustering-Analysis-of-Poverty-Factors-in-Indonesian)
 
 2nd Winner of Statistics Olympiad SPSS 2024 by Binus University
@@ -85,7 +90,7 @@ Final Project COMPFEST 16 Data Science Academy by Faculty of Computer Science Un
 - **Tools**: R (Data Preprocessing, EDA, Clustering Analysis)
 ![image](https://github.com/user-attachments/assets/38848694-df9a-4e1e-a6e7-f787098f402f)
 
-### Sentiment Analysis of Indonesian Public Opinion on Electric Cars 
+### Sentiment Analysis of Indonesian Public Opinion on Electric Cars (2024)
 [View Project](https://github.com/maryesta/Sentiment-Classification-of-Indonesian-Public-Opinion-on-Electric-Cars)
 
 Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
@@ -94,7 +99,7 @@ Finalist in Data Competition ISFEST 2024 by Universitas Multimedia Nusantara
 ![image](https://github.com/user-attachments/assets/fa57d4b5-fd12-4913-b9e4-9403182d364a)
 
 
-### Predictive Modeling of Hazardous Waste Generation 
+### Predictive Modeling of Hazardous Waste Generation (2025)
 [View Project](https://github.com/maryesta/Predictive-Modeling-of-Hazardous-Waste-Generation)
 
 Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
@@ -102,7 +107,7 @@ Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
 - **Tools**: Phyton (Preprocessing, EDA, Feature Engineering, Modeling (Regression), Simulation)
 ![image](https://github.com/user-attachments/assets/134eb3d3-c836-412d-8f64-44076e00535d)
 
-### Harmonization of Learning Styles and Social Connectivity 
+### Harmonization of Learning Styles and Social Connectivity (2023)
 [View Project](https://github.com/maryesta/Harmonization-of-Learning-Styles-and-Social-Connectivity)
 
 3rd Place LKTI Competition Marcsion 2023 by Universitas Padjajaran
@@ -110,7 +115,7 @@ Finalist in National Data Science Competition Fortex 5.0 by Universitas Al-Azhar
 - **Tools**: Phyton (Preprocessing, EDA, Clustering Analysis), Excel/Spreadsheet (Preprocessing)
 ![image](https://github.com/user-attachments/assets/1717b7a1-e19e-45e9-9088-93ba4d0aaf61)
 
-### Job Search and Recruitment Database System 
+### Job Search and Recruitment Database System (2024)
 [View Project](https://github.com/maryesta/Job-Search-and-Recruitment-Database-System)
 
 Academic Project
