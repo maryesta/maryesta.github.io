@@ -8,10 +8,7 @@
 
 
 ## About Me
-
-Sixth-semester Statistics student at Universitas Indonesia with practical experience in data analysis through an internship at BPS Depok, 3+ data competition wins, and advanced coursework in data analytics/science. I have gained expertise in end-to-end Data Analytics, Machine Learning, and Data Visualization using tools like Python, Tableau, Looker Studio, R, Excel, and SQL.  
-
-My strength lies in translating complex datasets into clear and actionable business insights. Eager to apply strong analytical and leadership capabilities to drive data-informed decision-making in dynamic environments.
+Final-year Statistics student at Universitas Indonesia with strong passion for data analytics, data science, and research.  Experienced in using data tools such as Excel, SQL, Python, Tableau, Looker Studio, and R for end-to-end data processing, analysis, visualization, and reporting. Practical experience includes 3+ data competition wins, internships at Bank Indonesia and BPS Depok, and diverse advanced coursework. Skilled in translating complex datasets into clear and actionable business insights. Eager to apply strong analytical and problem-solving capabilities to drive data-informed decision-making in dynamic environments.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
