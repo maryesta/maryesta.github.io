@@ -43,6 +43,9 @@ Dec 2024 - Feb 2025
 
 ## Projects
 
+Explore selected highlights of my work through the interactive slide deck below:
+📂 [Slide Portfolio](https://drive.google.com/drive/folders/1LtA8iiZ2t1-8JmUEfijAe7AdLpfGBngD)
+
 ### Customer Review Analysis of Ruangguru
 [View Project](https://github.com/maryesta/Customer-Review-Analysis-of-Ruangguru)
 
