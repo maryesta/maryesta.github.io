@@ -1,5 +1,5 @@
 <h1 align="center">Maryesta Apriliani Sihombing</h1>
-<h3 align="center">Data Analytics, Data Science and Research Enthusiast</h3>
+<h3 align="center">Data Analytics, Data Science, and Research Enthusiast</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/maryesta-apriliani-sihombing/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maryesta.apriliani@ui.ac.id"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
