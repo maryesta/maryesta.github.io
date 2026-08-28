@@ -163,13 +163,13 @@ Academic Project
 ## Skills
 
 ### Tools: 
-Python, SQL, Tableau, Google Looker Studio, R, Microsoft Office (Excel, PowerPoint, Word), Google Suites (Spreadsheet, Docs, Slides).
+SQL, Python, R, Google Looker Studio, Tableau, Apache Airflow, BigQuery, PostgreSQL, Microsoft Office (Excel, PowerPoint, Word), Google Suites (Spreadsheet, Docs, Slides).
 
 ### Technical Skills: 
-Data Analytics, Predictive Modeling and Machine Learning, Data Visualization & Dashboard Design, Statistical Analysis, ForecasData Cleaning, Data Reporting, Data Querying
+Data Analytics, Data Visualization & Dashboard Design, Data Cleaning, Data Reporting, Data Querying, Data Engineering, ETL/ELT Pipeline Development, Data Science, Statistical Analysis.
 
 ### Soft Skills: 
-Analytical and Data-Driven Problem Solving, Detail Oriented Organizational Skills, Interpersonal Communication, Cross-Functional Collaboration.
+Analytical and Data-Driven Problem Solving, Project Management, Attention to Detail, Interpersonal Communication, Cross-Functional Collaboration.
 
 ## Certifications and Courses
 
