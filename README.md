@@ -1,5 +1,5 @@
 <h1 align="center">Maryesta Apriliani Sihombing</h1>
-<h3 align="center">Data Analytics, Data Science, and Research Enthusiast</h3>
+<h3 align="center">Data Engineering & Data Analytics Enthusiast</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/maryesta-apriliani-sihombing/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maryesta.apriliani@ui.ac.id"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -8,7 +8,7 @@
 
 
 ## About Me
-Final-year Statistics student at Universitas Indonesia with strong passion for data analytics, data science, and research.  Experienced in using data tools such as Excel, SQL, Python, Tableau, Looker Studio, and R for end-to-end data processing, analysis, visualization, and reporting. Practical experience includes 3+ data competition wins, internships at Bank Indonesia and BPS Depok, and diverse advanced coursework. Skilled in translating complex datasets into clear and actionable business insights. Eager to apply strong analytical and problem-solving capabilities to drive data-informed decision-making in dynamic environments.
+Statistics graduate from Universitas Indonesia with end-to-end experience across data engineering, data analytics, business intelligence, and applied research. Experienced in using data tools such as SQL, Python, R, Google Looker Studio, Tableau, Apache Airflow, BigQuery, PostgreSQL, and Excel for data processing, analysis, modeling, visualization, and reporting. Proven track record includes 3 data internships, 3+ data competition wins, and data advanced coursework. Eager to apply strong analytical and problem-solving capabilities to drive data-informed decision-making in fast-paced and dynamic environments.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
@@ -21,7 +21,7 @@ Final-year Statistics student at Universitas Indonesia with strong passion for d
 ## Education
 
 **Universitas Indonesia, Depok**  
-*Majoring in Statistics | Concentration: Data Science | Current GPA: 3.90/4.00 | 7th Semester*  
+*Bachelor of Statistics | Concentration: Data Science | ●	GPA: 3.91/4.00 | Summa Cumlaude & Highest GPA in Statistics Cohort*  
 July 2022 - Present
 - Related Courses: Data Mining & Bussiness Intelligence, Exploratory Data Analysis & Visualization, Database for Data Science, Softskill for Data Science, Forecasting Method, Multivariate Analysis, etc.
 
