@@ -21,11 +21,15 @@ Statistics graduate from Universitas Indonesia with end-to-end experience across
 ## Education
 
 **Universitas Indonesia, Depok**  
-*Bachelor of Statistics | Concentration: Data Science | ●	GPA: 3.91/4.00 | Summa Cumlaude & Highest GPA in Statistics Cohort*  
+*Bachelor of Statistics | Concentration: Data Science | GPA: 3.91/4.00 | Summa Cumlaude & Highest GPA in Statistics Cohort*  
 July 2022 - Present
 - Related Courses: Data Mining & Bussiness Intelligence, Exploratory Data Analysis & Visualization, Database for Data Science, Softskill for Data Science, Forecasting Method, Multivariate Analysis, etc.
 
 ## Experience
+
+### Kalbe Consumer Health, Jakarta
+*IT Data Analytics & Engineering Intern*  
+Sept 2025 - March 2026
 
 ### Bank Indonesia, Jakarta
 *Data Analytics and Research Intern*  
